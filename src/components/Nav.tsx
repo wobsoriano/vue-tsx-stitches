@@ -10,6 +10,7 @@ const nav = css({
     alignItems: 'center',
     color: '#fff'
 })
+
 export default defineComponent({
     render() {
         return (
